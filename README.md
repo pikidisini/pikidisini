@@ -1,6 +1,8 @@
 ### Hi, I'm Piqi
 
-**SAP ABAP Developer · Rust/Python Tooling · Applied AI/ML**
+<a href="https://github.com/pikidisini">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=440&height=28&lines=SAP+ABAP+Developer;Rust+%26+Python+Tooling;Applied+AI+%2F+ML" alt="Typing SVG" />
+</a>
 
 I build reliable enterprise solutions on SAP, craft fast developer tools in Rust and Python, and explore practical Applied AI/ML workflows.
 
@@ -30,6 +32,17 @@ I build reliable enterprise solutions on SAP, craft fast developer tools in Rust
 - [**dos-label-preview**](https://github.com/pikidisini/dos-label-preview) — Standalone Rust desktop app for previewing Intermec IPL (`.DAX`/`.TAX`) labels with 1-bit UDC bitmap graphics
 - [**Thermal-Label-Studio**](https://github.com/pikidisini/Thermal-Label-Studio) — Visual label designer for industrial thermal printers
 - [**JSON_LABEL_THERMAL_PRINTER_PARSER**](https://github.com/pikidisini/JSON_LABEL_THERMAL_PRINTER_PARSER) — JSON-to-SVG parser and renderer for industrial thermal printer labels
+
+---
+
+#### GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pikidisini&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D111700" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=pikidisini&theme=github-dark-blue&hide_border=true&background=0D111700" alt="GitHub Streak" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pikidisini&theme=github-compact&hide_border=true&bg_color=0D111700&area=true" alt="Contribution Activity Graph" />
 
 <!-- Uncomment after GitHub Actions generates the `output` branch:
 ---
