@@ -1,4 +1,4 @@
-### Hi, I'm Fiqih Hidayaturrahman (`@pikidisini`)
+### Hi, I'm Piqi
 
 **SAP ABAP Developer · Rust/Python Tooling · Applied AI/ML**
 
