@@ -8,7 +8,7 @@ I build reliable enterprise solutions on SAP, craft fast developer tools in Rust
 
 #### Focus Areas
 
-- **SAP ABAP Development** — ABAP, CDS Views, RAP, OData, BAPI/RFC, and S/4HANA performance & extensions
+- **SAP ABAP Development** — ABAP, DDIC and BAPI/RFC
 - **Rust & Python Tooling** — CLI utilities, automation scripts, data pipelines, and developer productivity tools
 - **Applied AI / ML** — Practical LLM workflows, RAG systems, and intelligent automation
 
